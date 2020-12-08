@@ -27,5 +27,3 @@ Daily
 #Verse
 #New testament
 #Old testament
-
-Yuo
