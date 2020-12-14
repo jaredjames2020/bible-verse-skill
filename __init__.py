@@ -9,6 +9,8 @@ class BibleVerse(MycroftSkill):
     def handle_verse_bible(self, message):
         self.speak_dialog('verse.bible')
 
+    def speak_dialog(self):
+        self
 
 def create_skill():
     return BibleVerse()
